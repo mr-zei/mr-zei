@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mr-zei
+- 👋 Hi, I’m om bhutkar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning diploma in IT
 - 💞️ I’m looking to collaborate on making something new
